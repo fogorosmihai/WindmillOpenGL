@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Laborator 2 online.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Patrat.c
+C:\Users\Fogoros Mihai\Desktop\ICAI-An2Sem1\Practica\Laborator123(indr.2,3,4)\Patrat.c(58,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Fogoros Mihai\Desktop\ICAI-An2Sem1\Practica\Laborator123(indr.2,3,4)\Patrat.c(59,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Fogoros Mihai\Desktop\ICAI-An2Sem1\Practica\Laborator123(indr.2,3,4)\Patrat.c(73,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Fogoros Mihai\Desktop\ICAI-An2Sem1\Practica\Laborator123(indr.2,3,4)\Patrat.c(128,27): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Fogoros Mihai\Desktop\ICAI-An2Sem1\Practica\Laborator123(indr.2,3,4)\Patrat.c(150,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Fogoros Mihai\Desktop\ICAI-An2Sem1\Practica\Laborator123(indr.2,3,4)\Patrat.c(159,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Fogoros Mihai\Desktop\ICAI-An2Sem1\Practica\Laborator123(indr.2,3,4)\Patrat.c(159,32): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Fogoros Mihai\Desktop\ICAI-An2Sem1\Practica\Laborator123(indr.2,3,4)\Patrat.c(168,27): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Fogoros Mihai\Desktop\ICAI-An2Sem1\Practica\Laborator123(indr.2,3,4)\Patrat.c(168,33): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Fogoros Mihai\Desktop\ICAI-An2Sem1\Practica\Laborator123(indr.2,3,4)\Patrat.c(177,22): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Fogoros Mihai\Desktop\ICAI-An2Sem1\Practica\Laborator123(indr.2,3,4)\Patrat.c(177,33): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Fogoros Mihai\Desktop\ICAI-An2Sem1\Practica\Laborator123(indr.2,3,4)\Patrat.c(186,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Fogoros Mihai\Desktop\ICAI-An2Sem1\Practica\Laborator123(indr.2,3,4)\Patrat.c(186,32): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\Fogoros Mihai\Desktop\ICAI-An2Sem1\Practica\Laborator123(indr.2,3,4)\Patrat.c(109,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Fogoros Mihai\Desktop\ICAI-An2Sem1\Practica\Laborator123(indr.2,3,4)\Patrat.c(110,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Fogoros Mihai\Desktop\ICAI-An2Sem1\Practica\Laborator123(indr.2,3,4)\Patrat.c(111,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Fogoros Mihai\Desktop\ICAI-An2Sem1\Practica\Laborator123(indr.2,3,4)\Patrat.c(116,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Laborator 2 online.vcxproj -> C:\Users\Fogoros Mihai\Desktop\ICAI-An2Sem1\Practica\Laborator123(indr.2,3,4)\Laborator 2 online\Debug\MoaraDeVant.exe
